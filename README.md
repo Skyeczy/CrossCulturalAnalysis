@@ -3,6 +3,7 @@ This is the code for NSF IIS-Sponsored Project on "Tagging and Browsing Videos A
 
 The project is done by:
 Zhengyi(Skye) Chen, zc2549@columbia.edu
+
 Yifei(Natalie) Chen, yc3832@columbia.edu
 
 This project is supervised by Professor John R. Kender. 
